@@ -5,10 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "OctanePlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "DatasmithImporter",
 			"Enabled": true
 		},

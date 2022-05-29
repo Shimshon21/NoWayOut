@@ -38,10 +38,6 @@
 		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
-		},
-		{
-			"Name": "OctanePlugin",
-			"Enabled": true
 		}
 	]
 }
